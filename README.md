@@ -51,7 +51,7 @@ For this project we will uses Oracle Vitualbox Virtual Machine for simulating th
 
 * Clone the Project
     * Type in the following command to clone the Project.
-      `git clone https://github.com/singlun/serverless-photo-organizer.git`  
+      `git clone https://github.com/singluntang/AWS-Serverless-Capstone-Project-Photo-Orgainzer-App-.git`  
 
 And that is it! We have setup an environment for the Photo Organizer App. Next we will config the project for the Production Mode and deploy it to the AWS.
 
